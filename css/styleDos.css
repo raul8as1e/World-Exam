@@ -1,0 +1,10 @@
+html,body {
+    height: 100%;
+}
+.titulo {
+    font-weight: 700px;
+    font-size: x-large;
+    text-align:center ;
+    color: gray;
+    font-family: 'Signika Negative', sans-serif;
+}
