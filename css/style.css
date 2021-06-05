@@ -246,7 +246,6 @@ section {
     background-size: cover;
     background-attachment: fixed;
 }
-
 /* 5 Navigation
 ----------------------------------------------------------------------------- */
 .navbar-custom {
@@ -367,12 +366,12 @@ nav.small {
 /* 11 Twitter-tweets
 ----------------------------------------------------------------------------- */
 #twitter_tweet {
-	background: url(../images/Muro.jpg);
+	background-image: url(../images/muroblanco.jpg);
 }
 .twitter_tweet h5{
     font-weight: 300;
     line-height: 20px;
-    color: rgba(255,255,255,0.77);
+    color: black;
 }
 .twitter_tweet i{
     font-size: 30px;
